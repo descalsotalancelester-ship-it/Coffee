@@ -228,6 +228,5 @@ function checkout(){
   document.querySelectorAll('.controls span').forEach(s=>s.innerText=0);
 }
 </script>
-
 </body>
 </html>
