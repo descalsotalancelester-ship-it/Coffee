@@ -1,4 +1,4 @@
-<Index.html>
+9<Index.html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -228,5 +228,3 @@ function checkout(){
   document.querySelectorAll('.controls span').forEach(s=>s.innerText=0);
 }
 </script>
-</body>
-</html>
